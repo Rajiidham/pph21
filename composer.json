@@ -1,0 +1,49 @@
+
+    {
+        "type": "library",
+        "license": "proprietary",
+        "name": "modernoop/pph21",
+        "authors": [
+        {
+            "name": "Raji Idham Mahyudin",
+            "email": "rajididham@gmail.com",
+            "homepage": "https://github.com/Rajiidham"
+        }
+        ],
+        "require": {
+            "php": "^7.3.24"
+        },
+        "config": {
+            "preferred-install": {
+                "*": "dist"
+            },
+            "sort-packages": true,
+            "classmap-authoritative": true,
+            "optimize-autoloader": true
+        },
+        "autoload": {
+            "psr-4": {
+                "pph21\\": "src/"
+            }
+        }
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
