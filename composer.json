@@ -25,6 +25,13 @@
             "psr-4": {
                 "pph21\\": "src/"
             }
+        },
+        "repository": {
+            "type": "git",
+            "url": "https://github.com/Rajiidham/pph21"
+        },
+        "publishConfig": {
+            "registry": "https://npm.pkg.github.com"
         }
     }
 
